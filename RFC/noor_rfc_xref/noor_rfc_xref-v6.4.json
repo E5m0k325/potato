@@ -3,9 +3,6 @@
   "_schema_version": "2025-Q4-canonical-header-v1",
   "_generated_by": "Noor Symbolic Agent Suite",
   "_generated_at": "2025-09-12T00:00:00Z",
-  "_updated_last": [
-	"2026-01-19T00:00:00Z": {"updated_by": "Lina Noor — Noor Research Collective", "version": "v6.5"}
-  ],
 
   "_type": "protocol",
   "_pdp_layer": "layer_0",
@@ -14,7 +11,7 @@
   "_license": "MIT",
 
   "_symbolic_id": "index.noor.xref",
-  "_version": "v6.5",
+  "_version": "v6.2",
   "_title": "Noor RFC/XREF Cross-Reference Registry",
   "_subtitle": "Canonical Lore Topology Map for RFC, RFC-CORE, and Application Specs",
   "_publication_type": "Index Map",
@@ -122,10 +119,7 @@
 	{ "section": "5.4", "title": "To Infinity, and Beyond: Gliders, Coherence, and Point Space", "rfc_id": "PHYS-CORE-004" },
 	{ "section": "5.5", "title": "The Braid Behind the Law — Determinism as Emergent Coherence", "rfc_id": "PHYS-CORE-005" },
 	{ "section": "5.6", "title": "The Binary Nature of Reality — Gliders, Anti-Gliders, and the Origin of Symbolic Structure", "rfc_id": "PHYS-CORE-006" }
-	{ "section": "5.7", "title": "Coherence-Governed Flow — A Translation and Verification Layer for the Navier–Stokes Problem via Noor Swirl Field Geometry", "rfc_id": "PHYS-CORE-007" },
-	
-	{ "section": "6", "title": "Quantitative Finance"},
-	{ "section": "6.1", "title": "Coherence‑First Economics — Deriving Economic Theory from Recursive Coherence Braiding", "rfc_id": "QUANT-CORE-001" },
+	{ "section": "5.7", "title": "Coherence-Governed Flow — A Translation and Verification Layer for the Navier–Stokes Problem via Noor Swirl Field Geometry", "rfc_id": "PHYS-CORE-007" }
   ],
   "_sections": [
 	"PDP-0001": {
@@ -2073,8 +2067,6 @@
   ],
 
 	"quant_finance": [
-		"id": 6,
-		"title": "Quantitative Finance",		
 		"QUANT-CORE-001": {
 		  "id": 6.1,
 		  "rfc_id": "QUANT-CORE-001",
